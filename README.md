@@ -154,4 +154,4 @@ ai.predict(x_n_n)
 </p>
 
 ## RESULT :
-Thus a neural network regression model for the given dataset is written and executed successfully
+Thus a neural network regression model for the given dataset is written and executed successfully.
